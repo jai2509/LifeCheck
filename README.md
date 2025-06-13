@@ -4,6 +4,8 @@
 
 A modern, responsive landing page for LifeCheck+, an innovative AI-powered platform that helps couples analyze, understand, and strengthen their relationships through intelligent insights and personalized guidance.
 
+**Developed by:** Jai Kumar Mishra
+
 ## 🌟 Features
 
 - **Modern Design**: Beautiful, production-ready UI with gradient backgrounds and smooth animations
@@ -144,12 +146,12 @@ className="bg-gradient-to-r from-your-color-500 to-your-color-600"
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
+## 📞 Support & Contact
 
-For support and questions:
-- Email: hello@lifecheckai.com
-- Phone: +91 98765 43210
-- Location: Mumbai, India
+For questions, feedback, or collaboration opportunities:
+
+**Developer:** Jai Kumar Mishra  
+**Email:** mishrajaikumar283@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -160,4 +162,5 @@ For support and questions:
 
 ---
 
-Made with ❤️ in India for couples worldwide.
+**Built with ❤️ by Jai Kumar Mishra**  
+*Empowering relationships through technology*
